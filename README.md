@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Fullstack
 -->
 [Weibo](http://weibo.com/) | [Twitter](https://twitter.com/) | [E-Mail](mailto:coder_wy@126.com) | [Sponsor](https://github.com/Code-wy)
 
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
     </a>
   </p>
-  <p>Hi, I'm Wy, Fullstack developer from China.</p>
+  <p>Hi, I'm Wangyang, Backend developer from China.</p>
   <p>
     <a href="https://github.com/Code-wy">
       <img src="https://github-readme-stats.vercel.app/api?username=Code-wy&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
