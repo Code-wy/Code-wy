@@ -45,7 +45,7 @@ Fullstack
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-wy&repo=bill&show_owner=true" />
   </a>
   <a href="https://github.com/Code-wy/Course-selection-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-wy&repo=Course-selection-system&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-wy&repo=Course-selection-system" />
   </a>
   <br>
 </div>
