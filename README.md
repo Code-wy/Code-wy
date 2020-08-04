@@ -41,11 +41,12 @@ Fullstack
       <img src="https://github-readme-stats.vercel.app/api?username=Code-wy&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&count_private=true&hide=prs" />
     </a>
   </p>
-  <a href="https://github.com/Code-wy/bill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-wy&repo=bill&show_owner=true" />
-  </a>
+  
   <a href="https://github.com/Code-wy/Course-selection-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-wy&repo=Course-selection-system" />
+  </a>
+  <a href="https://github.com/Code-wy/bill">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Code-wy&repo=bill&show_owner=true" />
   </a>
   <br>
 </div>
