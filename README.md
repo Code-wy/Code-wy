@@ -1,10 +1,15 @@
 ## I'm WangYang, maybe a developer. 👨‍💻
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-wy&hide_border=true&layout=compact" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-wy&hide_border=true&layout=compact&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-wy&hide_border=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-wy&hide_border=true&layout=compact" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+</picture>
 
 - 🌱 I’m currently learning ...  
 - ⚡ Fun fact: I not a good learner ... 
-
+- 🌐 Website: <a href="https://www.doraemon.press/">doraemon.press</a>
+- 📧 Email: <a href="mailto:doraemon1999@yeah.net">doraemon1999@yeah.net</a>
 <br/>  
 
 ## My Skill Set  
