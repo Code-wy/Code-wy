@@ -1,6 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-wy&hide_border=true&layout=compact" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+## I'm WangYang, maybe a developer. 👨‍💻
 
-### I'm WangYang, maybe a developer. 👨‍💻
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-wy&hide_border=true&layout=compact" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 - 🌱 I’m currently learning ...  
 - ⚡ Fun fact: I not a good learner ... 
