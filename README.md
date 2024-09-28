@@ -14,7 +14,7 @@
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,tailwind,py,mongodb,md,vue,react,svelte,bootstrap,jquery,nuxtjs,nextjs,nestjs,express,vite,webpack,rollupjs,nodejs,docker,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=light)
+![skills](https://skillicons.dev/icons?i=htmx,ts,js,html,css,tailwind,py,mongodb,md,vue,react,nuxtjs,nextjs,nestjs,vite,webpack,nodejs,java,spring,go,redis,docker,kubernetes,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=light)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
