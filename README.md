@@ -14,11 +14,7 @@
 
 ## 🔧 Technologies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=htmx,ts,js,html,css,tailwind,py,mongodb,md,vue,react,nuxtjs,nextjs,nestjs,vite,webpack,nodejs,java,spring,go,redis,docker,kubernetes,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=htmx,ts,js,html,css,tailwind,py,mongodb,md,vue,react,nuxtjs,nextjs,nestjs,vite,webpack,nodejs,java,spring,go,redis,docker,kubernetes,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=light">
-  <img src="https://skillicons.dev/icons?i=htmx,ts,js,html,css,tailwind,py,mongodb,md,vue,react,nuxtjs,nextjs,nestjs,vite,webpack,nodejs,java,spring,go,redis,docker,kubernetes,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=light" alt="skills" />
-</picture>
+![skills](https://skillicons.dev/icons?i=htmx,ts,js,html,css,tailwind,py,mongodb,md,vue,react,nuxtjs,nextjs,nestjs,vite,webpack,nodejs,java,spring,go,redis,docker,kubernetes,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=light)
 <br/>
 
 <picture>
