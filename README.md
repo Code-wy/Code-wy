@@ -14,8 +14,8 @@
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=htmx,ts,js,html,css,tailwind,py,mongodb,md,vue,react,nuxtjs,nextjs,nestjs,vite,webpack,nodejs,java,spring,go,redis,docker,kubernetes,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=light)
-![skills](https://skillicons.dev/icons?i=htmx,ts,js,html,css,tailwind,py,mongodb,md,vue,react,nuxtjs,nextjs,nestjs,vite,webpack,nodejs,java,spring,go,redis,docker,kubernetes,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=dark)
+![skills](https://skillicons.dev/icons?i=htmx,ts,js,html,css,tailwind,md,py,vue,react,nuxtjs,nextjs,nestjs,vite,webpack,nodejs,java,spring,go,redis,docker,kubernetes,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=light)
+![skills](https://skillicons.dev/icons?i=htmx,ts,js,html,css,tailwind,md,py,vue,react,nuxtjs,nextjs,nestjs,vite,webpack,nodejs,java,spring,go,redis,docker,kubernetes,nginx,jenkins,git,github,githubactions,gitlab,vscode,idea,cloudflare,workers,vercel,linux&theme=dark)
 <br/>
 
 <picture>
